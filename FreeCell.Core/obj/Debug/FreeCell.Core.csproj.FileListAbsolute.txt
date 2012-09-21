@@ -1,0 +1,5 @@
+C:\Projects\FreeCell\FreeCell.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\FreeCell\FreeCell.Core\bin\Debug\FreeCell.Core.dll
+C:\Projects\FreeCell\FreeCell.Core\bin\Debug\FreeCell.Core.pdb
+C:\Projects\FreeCell\FreeCell.Core\obj\Debug\FreeCell.Core.dll
+C:\Projects\FreeCell\FreeCell.Core\obj\Debug\FreeCell.Core.pdb

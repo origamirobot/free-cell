@@ -1,0 +1,5 @@
+C:\Projects\FreeCell\FreeCell Web\bin\FreeCell Web.dll
+C:\Projects\FreeCell\FreeCell Web\bin\FreeCell Web.pdb
+C:\Projects\FreeCell\FreeCell Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\FreeCell\FreeCell Web\obj\Debug\FreeCell Web.dll
+C:\Projects\FreeCell\FreeCell Web\obj\Debug\FreeCell Web.pdb

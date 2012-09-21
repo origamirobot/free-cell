@@ -1,0 +1,49 @@
+C:\Base\Code\FreeCell\FreeCell.Console\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Base\Code\FreeCell\FreeCell.Console\bin\Debug\FreeCell.Console.exe
+C:\Base\Code\FreeCell\FreeCell.Console\bin\Debug\FreeCell.Console.pdb
+C:\Base\Code\FreeCell\FreeCell.Console\bin\Debug\FreeCell.Library.dll
+C:\Base\Code\FreeCell\FreeCell.Console\bin\Debug\FreeCell.Library.pdb
+C:\Base\Code\FreeCell\FreeCell.Console\obj\x86\Debug\FreeCell.Console.exe
+C:\Base\Code\FreeCell\FreeCell.Console\obj\x86\Debug\FreeCell.Console.pdb
+P:\FreeCell\FreeCell.Console\obj\x86\Debug\FreeCell.Console.exe
+P:\FreeCell\FreeCell.Console\obj\x86\Debug\FreeCell.Console.pdb
+P:\FreeCell\FreeCell.Console\bin\Debug\FreeCell.Console.exe
+P:\FreeCell\FreeCell.Console\bin\Debug\FreeCell.Console.pdb
+P:\FreeCell\FreeCell.Console\bin\Debug\FreeCell.Library.dll
+P:\FreeCell\FreeCell.Console\bin\Debug\FreeCell.Library.pdb
+P:\FreeCell\FreeCell.Console\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\FreeCell\FreeCell.Console\obj\x86\Debug\FreeCell.Console.exe
+G:\FreeCell\FreeCell.Console\obj\x86\Debug\FreeCell.Console.pdb
+G:\FreeCell\FreeCell.Console\bin\Debug\FreeCell.Console.exe
+G:\FreeCell\FreeCell.Console\bin\Debug\FreeCell.Console.pdb
+G:\FreeCell\FreeCell.Console\bin\Debug\FreeCell.Library.dll
+G:\FreeCell\FreeCell.Console\bin\Debug\FreeCell.Library.pdb
+G:\FreeCell\FreeCell.Console\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\FreeCell\FreeCell.Console\obj\x86\Debug\FreeCell.Console.exe
+E:\FreeCell\FreeCell.Console\obj\x86\Debug\FreeCell.Console.pdb
+E:\FreeCell\FreeCell.Console\bin\Debug\FreeCell.Console.exe
+E:\FreeCell\FreeCell.Console\bin\Debug\FreeCell.Console.pdb
+E:\FreeCell\FreeCell.Console\bin\Debug\FreeCell.Library.dll
+E:\FreeCell\FreeCell.Console\bin\Debug\FreeCell.Library.pdb
+E:\FreeCell\FreeCell.Console\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Backup\Backup\FreeCell\FreeCell.Console\bin\Debug\FreeCell.Console.exe
+E:\Backup\Backup\FreeCell\FreeCell.Console\bin\Debug\FreeCell.Console.pdb
+E:\Backup\Backup\FreeCell\FreeCell.Console\bin\Debug\FreeCell.Library.dll
+E:\Backup\Backup\FreeCell\FreeCell.Console\bin\Debug\FreeCell.Library.pdb
+E:\Backup\Backup\FreeCell\FreeCell.Console\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Backup\Backup\FreeCell\FreeCell.Console\obj\x86\Debug\FreeCell.Console.exe
+E:\Backup\Backup\FreeCell\FreeCell.Console\obj\x86\Debug\FreeCell.Console.pdb
+C:\Users\clees\Desktop\FreeCell - Copy\FreeCell.Console\bin\Debug\FreeCell.Console.exe
+C:\Users\clees\Desktop\FreeCell - Copy\FreeCell.Console\bin\Debug\FreeCell.Console.pdb
+C:\Users\clees\Desktop\FreeCell - Copy\FreeCell.Console\bin\Debug\FreeCell.Library.dll
+C:\Users\clees\Desktop\FreeCell - Copy\FreeCell.Console\bin\Debug\FreeCell.Library.pdb
+C:\Users\clees\Desktop\FreeCell - Copy\FreeCell.Console\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\clees\Desktop\FreeCell - Copy\FreeCell.Console\obj\x86\Debug\FreeCell.Console.exe
+C:\Users\clees\Desktop\FreeCell - Copy\FreeCell.Console\obj\x86\Debug\FreeCell.Console.pdb
+C:\Projects\FreeCell\FreeCell.Console\obj\x86\Debug\FreeCell.Console.exe
+C:\Projects\FreeCell\FreeCell.Console\obj\x86\Debug\FreeCell.Console.pdb
+C:\Projects\FreeCell\FreeCell.Console\bin\Debug\FreeCell.Console.exe
+C:\Projects\FreeCell\FreeCell.Console\bin\Debug\FreeCell.Console.pdb
+C:\Projects\FreeCell\FreeCell.Console\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\FreeCell\FreeCell.Console\bin\Debug\FreeCell.Core.dll
+C:\Projects\FreeCell\FreeCell.Console\bin\Debug\FreeCell.Core.pdb

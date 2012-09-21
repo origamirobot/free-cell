@@ -1,0 +1,28 @@
+E:\FreeCell\FreeCell Solver\bin\Debug\FreeCell_Solver.exe
+E:\FreeCell\FreeCell Solver\bin\Debug\FreeCell_Solver.pdb
+E:\FreeCell\FreeCell Solver\bin\Debug\FreeCell.Library.dll
+E:\FreeCell\FreeCell Solver\bin\Debug\FreeCell.Library.pdb
+E:\FreeCell\FreeCell Solver\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\FreeCell\FreeCell Solver\obj\x86\Debug\FreeCell_Solver.exe
+E:\FreeCell\FreeCell Solver\obj\x86\Debug\FreeCell_Solver.pdb
+E:\Backup\Backup\FreeCell\FreeCell Solver\bin\Debug\FreeCell_Solver.exe
+E:\Backup\Backup\FreeCell\FreeCell Solver\bin\Debug\FreeCell_Solver.pdb
+E:\Backup\Backup\FreeCell\FreeCell Solver\bin\Debug\FreeCell.Library.dll
+E:\Backup\Backup\FreeCell\FreeCell Solver\bin\Debug\FreeCell.Library.pdb
+E:\Backup\Backup\FreeCell\FreeCell Solver\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Backup\Backup\FreeCell\FreeCell Solver\obj\x86\Debug\FreeCell_Solver.exe
+E:\Backup\Backup\FreeCell\FreeCell Solver\obj\x86\Debug\FreeCell_Solver.pdb
+C:\Users\clees\Desktop\FreeCell - Copy\FreeCell Solver\bin\Debug\FreeCell_Solver.exe
+C:\Users\clees\Desktop\FreeCell - Copy\FreeCell Solver\bin\Debug\FreeCell_Solver.pdb
+C:\Users\clees\Desktop\FreeCell - Copy\FreeCell Solver\bin\Debug\FreeCell.Library.dll
+C:\Users\clees\Desktop\FreeCell - Copy\FreeCell Solver\bin\Debug\FreeCell.Library.pdb
+C:\Users\clees\Desktop\FreeCell - Copy\FreeCell Solver\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\clees\Desktop\FreeCell - Copy\FreeCell Solver\obj\x86\Debug\FreeCell_Solver.exe
+C:\Users\clees\Desktop\FreeCell - Copy\FreeCell Solver\obj\x86\Debug\FreeCell_Solver.pdb
+C:\Projects\FreeCell\FreeCell Solver\bin\Debug\FreeCell_Solver.exe
+C:\Projects\FreeCell\FreeCell Solver\bin\Debug\FreeCell_Solver.pdb
+C:\Projects\FreeCell\FreeCell Solver\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\FreeCell\FreeCell Solver\obj\x86\Debug\FreeCell_Solver.exe
+C:\Projects\FreeCell\FreeCell Solver\obj\x86\Debug\FreeCell_Solver.pdb
+C:\Projects\FreeCell\FreeCell Solver\bin\Debug\FreeCell.Core.dll
+C:\Projects\FreeCell\FreeCell Solver\bin\Debug\FreeCell.Core.pdb

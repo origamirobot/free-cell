@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+	<DrawingBrush x:Key="DiamondGlyph" Stretch="Uniform">
+		<DrawingBrush.Drawing>
+			<DrawingGroup>
+				<DrawingGroup.Children>
+					<GeometryDrawing Brush="#FFFF0000" Geometry="F1 M 64.6653,-7.62939e-006C 73.06,14.244 83.3893,29.5267 95.6533,45.844C 109.804,64.7133 121.216,79.004 129.896,88.72C 122.915,96.0773 111.5,110.323 95.6533,131.451C 82.8227,148.62 72.5413,163.996 64.8067,177.579C 62.26,172.675 58.768,166.967 54.3347,160.459C 46.696,149.139 37.216,135.979 25.8947,120.98C 23.4413,117.68 14.8093,106.925 0,88.72C 9.52667,77.872 21.792,62.3986 36.7907,42.3066C 47.92,27.404 57.212,13.3 64.6653,-7.62939e-006 Z "/>
+				</DrawingGroup.Children>
+			</DrawingGroup>
+		</DrawingBrush.Drawing>
+	</DrawingBrush>
+</ResourceDictionary>

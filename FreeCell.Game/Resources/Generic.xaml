@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+	<ImageBrush x:Key="FeltBackground" ImageSource="/FreeCell.Game;component/Images/Felt-Green.jpg" />
+	<SolidColorBrush x:Key="CardDefaultBorder"			Color="#999999" />
+	<SolidColorBrush x:Key="CardSelectedBorder"			Color="#CC00CC" />
+	<SolidColorBrush x:Key="CardBackground"				Color="White" />
+	<SolidColorBrush x:Key="RedSuitBackground"			Color="Red" />
+	<SolidColorBrush x:Key="RedSuitBorder"				Color="Black" />
+	<SolidColorBrush x:Key="BlackSuitBackground"		Color="Black" />
+	<SolidColorBrush x:Key="BlackSuitBorder"			Color="Black" />
+	<SolidColorBrush x:Key="EmptyCellBorder"			Color="Yellow" />
+	<SolidColorBrush x:Key="EmptyCellBackground"		Color="Transparent" />
+	<SolidColorBrush x:Key="EmptyFoundationBorder"		Color="Red" />
+	<SolidColorBrush x:Key="EmptyFoundationBackground"  Color="Transparent" />
+</ResourceDictionary>

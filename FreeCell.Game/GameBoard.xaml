@@ -1,0 +1,7 @@
+﻿<Window x:Class="FreeCell.Game.GameBoard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="GameBoard" Height="993" Width="973">
+    <Grid Name="grdMain" Background="{StaticResource FeltBackground}" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+	</Grid>
+</Window>
